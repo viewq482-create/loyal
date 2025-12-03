@@ -1,0 +1,5 @@
+{
+  "name": "Copy of India Map Interactive",
+  "description": "A highly responsive, animation-rich interactive map of India built with React, Framer Motion, and Tailwind CSS. Features smooth SVG path animations, dynamic hover effects, and a modern glassmorphism UI.",
+  "requestFramePermissions": []
+}
